@@ -1,1 +1,2 @@
 my nameis azam. i am learning git.
+i am practicing git commands.
